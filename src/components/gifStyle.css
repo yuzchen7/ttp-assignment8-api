@@ -1,0 +1,12 @@
+.ul-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    background-color: lightblue;
+    list-style: none;
+}
+
+body {
+    background-color: lightcoral;
+}
+
